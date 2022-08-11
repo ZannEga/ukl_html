@@ -1,0 +1,43 @@
+body {
+    background-image: url(saus/pokemon\ grass.png);
+}
+
+.container {
+    margin: auto 0;
+    width: auto;
+}
+
+.content {
+    width: auto;
+    height: 600px;
+    background-color: bisque;
+}
+
+header {
+    background-color: black;
+    width: auto;
+    height: 80px;
+}
+
+.gambar {
+    display: flex;
+    margin: auto;
+}
+
+footer {
+    width: auto;
+    height: 50px;
+    background-color: black;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    float: left;
+    margin-left: 8%;
+    margin-top: 2%;
+    
+}
+.card-body{
+    background-color: lightgray;
+}
